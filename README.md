@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieltelen
 - 👀 I’m interested in SQL and Java Programming
-- 🌱 I’m currently learning SQL database and algortihn in java
+- 🌱 I’m currently learning SQL database and algortihM in java
 - 📫 How to reach me in danieltelen56@gmail.com
 - 😄 Pronouns: he/him
 
