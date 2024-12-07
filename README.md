@@ -5,6 +5,8 @@
 - 😄 Pronouns: he/him
 
   CERTIFICATES :
+
+
   SQL and Relational Databases 101:
   https://courses.cognitiveclass.ai/certificates/dfe6377409504a1690ab3b311f7dc027
   
