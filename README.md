@@ -4,37 +4,14 @@
 - 📫 How to reach me in danieltelen56@gmail.com
 - 😄 Pronouns: he/him
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Certificates</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 8px 12px;
-            border: 1px solid #ddd;
-            text-align: left;
-        }
-        a {
-            color: blue;
-            text-decoration: none; /* Remove underline */
-        }
-        a:hover {
-            text-decoration: underline; /* Underline on hover */
-        }
-    </style>
+
 </head>
 <body>
     <h1>My Certificates</h1>
     <table>
         <thead>
             <tr>
-                <th>Certificate Name</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
