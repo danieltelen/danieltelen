@@ -1,9 +1,55 @@
-- 👋 Hi, I’m @danieltelen
-- 👀 I’m interested in SQL and Java Programming
-- 🌱 I’m currently learning SQL database and algortihM in java
-- 📫 How to reach me in danieltelen56@gmail.com
-- 😄 Pronouns: he/him
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Daniel Donnell Telen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #007BFF;
+        }
+        .contact-info {
+            margin: 10px 0;
+        }
+        .skills-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills-list li {
+            margin: 5px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 12px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Daniel Donnell Telen</h1>
+        <div class="contact-info">
+            <p>Email: <a href="mailto:danieltelen56@gmail.com">danieltelen56@gmail.com</a></p>
+        </div>
 
+       
+</body>
+</html>
 
 </head>
 <body>
