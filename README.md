@@ -5,6 +5,7 @@
         <h1>Daniel Donnell Telen</h1>
         <div class="contact-info">
             <p>Email: <a href="mailto:danieltelen56@gmail.com">danieltelen56@gmail.com</a></p>
+            <p>Facebook: <a href="mailto:https://www.facebook.com/danielgacutetelen">danieltelen</p>
         </div>
 
     
