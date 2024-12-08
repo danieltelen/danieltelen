@@ -1,4 +1,4 @@
- </style>
+
 </head>
 <body>
     <div class="container">
@@ -10,15 +10,17 @@
     
 </body>
 </html>
+       <h1>ABOUT ME</h1>
        
 </body>
 </html>
         <h2>skill</h2>
         <li>Java Programming</li>
         <li>HTML</li>
+        <li>SQL</li>
 </head>
 <body>
-    <h1></h1>
+    <h2>ABOUT ME</h2>
     <table>
         <thead>
             <tr>
