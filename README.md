@@ -13,8 +13,9 @@
 </html>
        <h1>ABOUT ME</h1>
        <li>im currently learning Some programming language</li>
-       <li></li>
-       
+       <li>soft skills: critical thinking  🗿 problem solving 💭 </li>
+        <li>Technical skills 💻 </li>
+        <li>Communication skills ✉️</li>
 </body>
 </html>
         <h1>SKILLS</h1>
