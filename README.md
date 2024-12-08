@@ -1,5 +1,4 @@
-
-    </style>
+ </style>
 </head>
 <body>
     <div class="container">
@@ -7,7 +6,20 @@
         <div class="contact-info">
             <p>Email: <a href="mailto:danieltelen56@gmail.com">danieltelen56@gmail.com</a></p>
         </div>
-        
+
+        <h2>Skills</h2>
+        <ul class="skills-list">
+            <li>Java Programming</li>
+            <li>HTML</li>
+            <li>SQL</li>
+        </ul>
+    </div>
+    
+    <div class="footer">
+        <p>Resume Template - Daniel Donnell Telen</p>
+    </div>
+</body>
+</html>
        
 </body>
 </html>
