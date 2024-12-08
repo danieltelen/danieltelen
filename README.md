@@ -7,11 +7,11 @@
 
 </head>
 <body>
-    <h1>My Certificates</h1>
+    <h1></h1>
     <table>
         <thead>
             <tr>
-                <th></th>
+                <th>CERTIFICATES</th>
             </tr>
         </thead>
         <tbody>
