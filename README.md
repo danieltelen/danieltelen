@@ -11,10 +11,12 @@
 </body>
 </html>
        <h1>ABOUT ME</h1>
+       <li>im currently learning Some programming language</li>
+       <li></li>
        
 </body>
 </html>
-        <h2>skill</h2>
+        <h1>SKILLS</h1>
         <li>Java Programming</li>
         <li>HTML</li>
         <li>SQL</li>
