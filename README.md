@@ -20,7 +20,7 @@
         <li>SQL</li>
 </head>
 <body>
-    <h2>ABOUT ME</h2>
+    <h2></h2>
     <table>
         <thead>
             <tr>
